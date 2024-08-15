@@ -1,0 +1,44 @@
+html {
+    background-color: blue;
+}
+
+body {
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color:bisque
+}
+
+li {
+    background-color: green;
+}
+
+ol {
+    padding: 20px;
+}
+
+tr {
+    background-color: aqua;
+}
+
+img {
+    padding: 20px;
+}
+
+a {
+    color: darkslategrey;
+}
+th {
+    color: blueviolet;
+}
+form {
+    color:brown;
+}
+input {
+    color: blueviolet;
+}
